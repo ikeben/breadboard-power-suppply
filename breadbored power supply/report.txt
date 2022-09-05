@@ -1,0 +1,16 @@
+Annotated 470 uf as C1.
+Annotated 47 uf as C2.
+Annotated 1N4007 as D1.
+Annotated 1N4007 as D2.
+Annotated 1N4007 as D3.
+Annotated 1N4007 as D4.
+Annotated 1N4007 as D5.
+Annotated 1N4007 as D6.
+Annotated Barrel_Jack_Switch as J1.
+Annotated Conn_02x02_Odd_Even as J2.
+Annotated Conn_02x02_Odd_Even as J3.
+Annotated 560 ohm as R1.
+Annotated 560 ohm as R2.
+Annotated SW_DPDT_x2 (unit A) as SW1A.
+Annotated LM7805_TO220 as U1.
+Annotation complete.
